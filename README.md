@@ -4,13 +4,15 @@
 
 </div>
 
+<br>
 
 <div align="center">
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/>
 
 </div>
 
+<br> 
 
 <div align="center">
 
@@ -37,19 +39,24 @@
 </div>
 
 ---
-
 <div align="center">
   
-# 👩‍💻 About Me
+### 👩‍💻 About Me
 
-Hello! I'm <b>Purvi Jain</b>, a B.Tech Artificial Intelligence student at DSEU passionate about Artificial Intelligence, Full Stack Development, Machine Learning, Data Analytics, and Problem Solving. I enjoy building modern web applications, AI-powered solutions, analytics dashboards, and implementation-based projects while continuously improving my development skills through hands-on learning and real-world projects. My GitHub contains structured repositories and learning resources including Python, NLP, Machine Learning, Data Analysis with Python, MERN Stack projects, and LeetCode solutions.
-
----
 </div>
+
+```yaml
+Name: Purvi Jain
+Education: B.Tech in Artificial Intelligence
+College: Delhi Skill and Entrepreneurship University (DSEU)
+Focus: Artificial Intelligence + NLP + Data Analytics
+Passion: Building Real World Tech & AI Projects
+```
+---
 
 <div align="center">
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -99,18 +106,11 @@ Hello! I'm <b>Purvi Jain</b>, a B.Tech Artificial Intelligence student at DSEU p
 
 </div>
 
+---
 
 <div align="center">
 
-# 📈 Statistics
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvijain1234&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvijain1234&theme=tokyonight"/>
-
-</div>
+### 📈 Statistics
 
 <br>
 
@@ -120,14 +120,25 @@ Hello! I'm <b>Purvi Jain</b>, a B.Tech Artificial Intelligence student at DSEU p
 
 </div>
 
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvijain1234&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvijain1234&theme=tokyonight"/>
+
+</div>
+
+---
+
 <div align="center">
 
-# 🔥 GitHub Contribution Chart
+### 🔥 GitHub Contribution Chart
 
 <img width="95%" src="https://ghchart.rshah.org/C084FC/Purvijain1234" alt="Purvi's Github chart"/>
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -135,8 +146,9 @@ Hello! I'm <b>Purvi Jain</b>, a B.Tech Artificial Intelligence student at DSEU p
 
 </div>
 
+
 <div align="center">
 
-## 💜 Code • Learn • Build • Repeat 💜
+### 💜 Code • Learn • Build • Repeat 💜
 
 </div>
