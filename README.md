@@ -1,19 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/Purvijain1234/Purvijain1234/blob/main/banner.png"/>
+<img width="100%" height= "70%" src="https://github.com/Purvijain1234/Purvijain1234/blob/main/banner.png"/>
 
 </div>
 
 
 <div align="center">
 
-# Welcome to Purvi's Github 💜
+# Hello! I am Purvi Jain 💜
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/>
 
 </div>
 
----
 
 <div align="center">
 
@@ -43,99 +42,88 @@
 
 # 👩‍💻 About Me
 
-```yaml
-Name: Purvi Jain
-Education: B.Tech in Artificial Intelligence
-College: DSEU
-Focus:
-  - Artificial Intelligence
-  - MERN Stack Development
-  - Data Analytics
-  - Machine Learning
-  - DSA & Problem Solving
-
-Currently Learning:
-  - Advanced MERN Stack
-  - Backend Development
-  - Prompt Engineering
-  - System Design
-  - Machine Learning
-
-Passion:
-  Building modern AI & Full Stack applications
-```
-
----
-
-# Repositories & Learning Resources
-
-In my GitHub, you will find well-structured repositories and complete learning resources covering multiple domains of software development, artificial intelligence, machine learning, and data analytics. These repositories are designed for both learning and practical implementation, including complete Python programming, Natural Language Processing (NLP), OpenCV and Computer Vision, Data Analysis with Python, Machine Learning, MERN Stack development, LeetCode solutions, analytics dashboards, and real-world AI projects.
-
-The repositories include theory, implementation, practice problems, project-based learning, and organized notes that help learners understand concepts from beginner to advanced level.
-
----
-
-# Programming Languages & Tools
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<table>
+<tr>
+<td width="100%">
 
-<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+Hello! I'm <b>Purvi Jain</b>, a B.Tech student specializing in Artificial Intelligence at DSEU. I am passionate about building modern web applications, AI-powered solutions, and data-driven projects that combine creativity with real-world problem solving.
 
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+Currently, I am focused on Full Stack Development, Artificial Intelligence, Machine Learning, Data Analytics, and Data Structures & Algorithms. I enjoy learning modern technologies, building practical projects, and continuously improving my development skills through hands-on implementation and problem solving.
 
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+My GitHub contains complete repositories and structured learning resources covering multiple domains of software development and AI. Here, you will find complete Python programming resources, Natural Language Processing (NLP), OpenCV & Computer Vision projects, Machine Learning implementations, Data Analysis with Python, MERN Stack development projects, LeetCode solutions, analytics dashboards, and real-world AI applications.
 
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+The repositories include structured notes, implementations, project-based learning, practice problems, and real-world examples designed to help learners understand concepts from beginner to advanced level.
 
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
-
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-
-<img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-
-<img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
-
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243"/>
-
-<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# GitHub Statistics
+# Tech Stack
 
 <div align="center">
 
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF&border_radius=12"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&border_radius=12"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MONGODB-0B3D2E?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<img src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</div>
+
+---
+# Statistics
+
+<div align="center">
+
+<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF"/>
+
+<img width="49%" height="190px" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
 
 </div>
 
@@ -143,85 +131,12 @@ The repositories include theory, implementation, practice problems, project-base
 
 <div align="center">
 
-<img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&border_radius=12"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Purvijain1234&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/A855F7/Purvijain1234" alt="Purvi's Github chart" />
-
-</div>
-
----
-
-# 💻 Programming Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,tensorflow"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"/>
-
-</div>
-
----
-
-# 💜 Most Used Languages
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Purvijain1234&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Contribution Chart
 
@@ -231,34 +146,14 @@ The repositories include theory, implementation, practice problems, project-base
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 💜 Project | 🚀 Tech Stack |
-|------------|---------------|
-| AQI Meter Project | Python + APIs |
-| Mishu Fun Toys | MERN Stack |
-| Data Analytics Dashboard | Power BI |
-| NLP & ML Projects | Python |
-| OpenCV Projects | Computer Vision |
-| LeetCode Solutions | C++ |
-
-</div>
 
 ---
-
-# 👀 Profile Views
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
----
 
 <div align="center">
 
