@@ -1,15 +1,13 @@
 <div align="center">
 
-<img width="100%" height= "70%" src="https://github.com/Purvijain1234/Purvijain1234/blob/main/banner.png"/>
+<img width="100%" height="250px" src="https://raw.githubusercontent.com/Purvijain1234/Purvijain1234/main/banner.png"/>
 
 </div>
 
 
 <div align="center">
 
-# Hello! I am Purvi Jain 💜
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/></h1>
 
 </div>
 
@@ -40,33 +38,18 @@
 
 ---
 
+<div align="center">
+  
 # 👩‍💻 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="100%">
-
-Hello! I'm <b>Purvi Jain</b>, a B.Tech student specializing in Artificial Intelligence at DSEU. I am passionate about building modern web applications, AI-powered solutions, and data-driven projects that combine creativity with real-world problem solving.
-
-Currently, I am focused on Full Stack Development, Artificial Intelligence, Machine Learning, Data Analytics, and Data Structures & Algorithms. I enjoy learning modern technologies, building practical projects, and continuously improving my development skills through hands-on implementation and problem solving.
-
-My GitHub contains complete repositories and structured learning resources covering multiple domains of software development and AI. Here, you will find complete Python programming resources, Natural Language Processing (NLP), OpenCV & Computer Vision projects, Machine Learning implementations, Data Analysis with Python, MERN Stack development projects, LeetCode solutions, analytics dashboards, and real-world AI applications.
-
-The repositories include structured notes, implementations, project-based learning, practice problems, and real-world examples designed to help learners understand concepts from beginner to advanced level.
-
-</td>
-</tr>
-</table>
-
-</div>
+Hello! I'm <b>Purvi Jain</b>, a B.Tech Artificial Intelligence student at DSEU passionate about Artificial Intelligence, Full Stack Development, Machine Learning, Data Analytics, and Problem Solving. I enjoy building modern web applications, AI-powered solutions, analytics dashboards, and implementation-based projects while continuously improving my development skills through hands-on learning and real-world projects. My GitHub contains structured repositories and learning resources including Python, NLP, Machine Learning, Data Analysis with Python, MERN Stack projects, and LeetCode solutions.
 
 ---
-
-# Tech Stack
+</div>
 
 <div align="center">
+
+# 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -116,11 +99,10 @@ The repositories include structured notes, implementations, project-based learni
 
 </div>
 
----
-
-# Statistics
 
 <div align="center">
+
+# 📈 Statistics
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
 
@@ -138,19 +120,14 @@ The repositories include structured notes, implementations, project-based learni
 
 </div>
 
----
-
+<div align="center">
 
 # 🔥 GitHub Contribution Chart
-
-<div align="center">
 
 <img width="95%" src="https://ghchart.rshah.org/C084FC/Purvijain1234" alt="Purvi's Github chart"/>
 
 </div>
 
-
----
 
 <div align="center">
 
@@ -161,7 +138,5 @@ The repositories include structured notes, implementations, project-based learni
 <div align="center">
 
 ## 💜 Code • Learn • Build • Repeat 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0D1117&height=120&section=footer"/>
 
 </div>
