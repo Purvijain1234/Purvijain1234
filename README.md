@@ -1,10 +1,44 @@
 <div align="center">
 
-# Hi 👋, I'm Purvi Jain
+<img src="YOUR_BANNER_LINK_HERE"/>
 
-### 🚀 AI Developer | MERN Stack Developer | Data Analytics Enthusiast
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=B.Tech+AI+Student;Full+Stack+MERN+Developer;AI+%26+Data+Analytics+Enthusiast;DSA+Learner;Open+Source+Learner" />
+---
+
+<div align="center">
+
+# Welcome to Purvi's Github 💜
+
+```cpp
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;DSA+Learner;Open+Source+Learner"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:purvijain2708@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/Purvijain1234">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
 </div>
 
@@ -12,118 +46,60 @@
 
 # 👩‍💻 About Me
 
-🎓 Pursuing **B.Tech in Artificial Intelligence** at DSEU  
-💡 Passionate about **AI, Full Stack Development & Data Analytics**  
-🚀 Building real-world projects using **MERN Stack & Python**  
-📚 Currently learning **Advanced MERN, Machine Learning & System Design**  
-🧠 Solving DSA problems regularly in C++  
-✨ Interested in Generative AI, NLP & Prompt Engineering  
+```yaml
+Name: Purvi Jain
+Education: B.Tech in Artificial Intelligence
+College: DSEU
+Focus: AI • MERN • Data Analytics
+Currently Learning:
+  - Advanced MERN Stack
+  - Machine Learning
+  - Backend Development
+  - Prompt Engineering
+  - System Design
+
+Passion:
+  Building modern AI & Web applications
+```
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:purvijain2708@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/Purvijain1234">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,sql" />
-</p>
-
----
-
-## 🚀 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mysql,powerbi" />
-</p>
-
----
-
-# 📊 GitHub Stats
+# ⚡ Technologies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,sql"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=tokyonight&hide_border=true"/>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tensorflow"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,powerbi"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Purvijain1234&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=000000"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Purvijain1234&theme=tokyonight&no-frame=true&margin-w=10" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|-------------|
-| 🌍 AQI Meter Project | Real-time Air Quality Monitoring System | Python, APIs |
-| 🛒 Mishu Fun Toys | Full Stack E-commerce Website | MERN Stack |
-| 📊 Sales Analytics Dashboard | Business Insights Dashboard | Power BI |
-| 🤖 AI/NLP Projects | AI-based intelligent systems | Python, ML |
-| 💻 DSA Repository | LeetCode & DSA Solutions | C++ |
-
----
-
-# 🌱 Currently Learning
-
-- Advanced MERN Stack
-- Machine Learning
-- Backend Development
-- Prompt Engineering
-- System Design
-- Data Analytics
 
 ---
 
@@ -131,17 +107,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purvijain1234&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purvijain1234&theme=tokyo-night&hide_border=true&bg_color=000000"/>
 
 </div>
 
 ---
 
-# 💡 Quote
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat." ✨
+<img src="https://github-profile-trophy.vercel.app/?username=Purvijain1234&theme=discord&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack |
+|----------|-------------|
+| 🌍 AQI Meter Project | Python |
+| 🛒 Mishu Fun Toys | MERN Stack |
+| 📊 Analytics Dashboard | Power BI |
+| 🤖 AI/NLP Projects | Python + ML |
+| 💻 DSA Repository | C++ |
 
 </div>
 
@@ -151,7 +143,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Purvijain1234&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -159,6 +151,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### 💜 Code • Learn • Build • Repeat 💜
 
 </div>
