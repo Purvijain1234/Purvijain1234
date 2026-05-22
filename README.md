@@ -51,32 +51,46 @@ College: Delhi Skill and Entrepreneurship University (DSEU)
 Focus: Artificial Intelligence + NLP + Data Analytics
 Passion: Building Real World Tech & AI Projects
 ```
+
+---
+
 <div align="center">
 
 ### 💻 Tech Stack
 
-<!-- <img src="https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Deep_Learning-CB3837?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-E53935?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Transformers-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-6A1B9A?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Analysis-7B1FA2?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Data_Analytics-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN_Stack-00C853?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Problem_Solving-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MERN_Stack-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
-<br> -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,tensorflow,pytorch,opencv"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DSA-3949AB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 </div>
 
+---
 
 <div align="center">
 
@@ -94,6 +108,7 @@ Passion: Building Real World Tech & AI Projects
 
 </div>
 
+---
 
 <div align="center">
 
@@ -116,6 +131,6 @@ Passion: Building Real World Tech & AI Projects
 
 <div align="center">
 
-### 💜 Code • Learn • Build • Repeat 💜
+#### 💜 Code • Learn • Build • Repeat 💜
 
 </div>
