@@ -136,6 +136,10 @@ Passion: Building Real World Tech & AI Projects
 
 <img width="95%" src="https://ghchart.rshah.org/C084FC/Purvijain1234" alt="Purvi's Github chart"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</p>
+
 </div>
 
 <br>
