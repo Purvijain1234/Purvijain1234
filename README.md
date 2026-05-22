@@ -6,6 +6,14 @@
 
 <br>
 
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000000&color=C084FC&center=true&vCenter=true&width=700&lines=Hello!+I'm+Purvi+Jain"/>
+
+</h1>
+
+<br>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=AI+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;DSA+Problem+Solver"/>
@@ -20,19 +28,19 @@
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/purvi-jain-315683326">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/PurviCodes">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/purvi._.jain27">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER_LINK">
+<a href="https://x.com/purvijain5678">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -66,8 +74,6 @@ Passion: Building Real World Tech & AI Projects
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -92,8 +98,6 @@ Passion: Building Real World Tech & AI Projects
 
 <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -108,17 +112,14 @@ Passion: Building Real World Tech & AI Projects
 
 ---
 
+
 <div align="center">
 
 ### 📈 Statistics
 
+<img width="70%" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+
 <br>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple"/>
-
-</div>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
 
@@ -133,8 +134,6 @@ Passion: Building Real World Tech & AI Projects
 <div align="center">
 
 ### 🔥 GitHub Contribution Chart
-
-<img width="95%" src="https://ghchart.rshah.org/C084FC/Purvijain1234" alt="Purvi's Github chart"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
