@@ -38,7 +38,6 @@
 
 </div>
 
----
 <div align="center">
   
 ### 👩‍💻 About Me
@@ -52,14 +51,11 @@ College: Delhi Skill and Entrepreneurship University (DSEU)
 Focus: Artificial Intelligence + NLP + Data Analytics
 Passion: Building Real World Tech & AI Projects
 ```
----
-
 <div align="center">
 
 ### 💻 Tech Stack
 
-
-<img src="https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
 
@@ -75,13 +71,12 @@ Passion: Building Real World Tech & AI Projects
 
 <img src="https://img.shields.io/badge/MERN_Stack-00C853?style=for-the-badge"/>
 
-<br>
+<br> -->
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,tensorflow,pytorch,opencv"/>
 
 </div>
 
----
 
 <div align="center">
 
@@ -99,7 +94,6 @@ Passion: Building Real World Tech & AI Projects
 
 </div>
 
----
 
 <div align="center">
 
