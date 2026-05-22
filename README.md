@@ -117,13 +117,16 @@ The repositories include structured notes, implementations, project-based learni
 </div>
 
 ---
+
 # Statistics
 
 <div align="center">
 
-<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Purvijain1234&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Purvijain1234&theme=tokyonight"/>
 
-<img width="49%" height="190px" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Purvijain1234&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Purvijain1234&theme=tokyonight"/>
 
 </div>
 
@@ -131,7 +134,7 @@ The repositories include structured notes, implementations, project-based learni
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvijain1234&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Purvijain1234&theme=midnight-purple"/>
 
 </div>
 
